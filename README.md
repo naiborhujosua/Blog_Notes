@@ -1,4 +1,4 @@
-![](medium.png)
+![](https://github.com/naiborhujosua/naiborhujosua/blob/master/GaussianProcessPosteriorPredictive_ManimCE_v0.9.0.gif)
 
 ### List of Articles i wrote for Medium publication. Code available in the Notebook File in this repository
 
