@@ -1,6 +1,6 @@
 ![](https://github.com/naiborhujosua/naiborhujosua/blob/master/GaussianProcessPosteriorPredictive_ManimCE_v0.9.0.gif)
 
-### List of Articles i wrote for Medium publication. Code available in the Notebook File in this repository
+### List of Articles i wrote for various publications. Code available in the Notebook File in this repository
 
 
 - [You can visualize amazing plots using Matplotlib and Seaborn](https://naiborhujosua.medium.com/looking-at-different-perspectives-when-visualize-data-using-matplotlib-and-seaborn-91d621a0623f)
