@@ -12,7 +12,7 @@
 <i>Loved the project? Please consider [donating](https://paypal.me/naiborhujosua) to help it improve!</i>
 
 </div>
-![banner](https://github.com/naiborhujosua/Blog_Notes/assets/13548560/16fc8c72-4bc2-45b9-bd90-2449c6114d28)
+
 
 
 
@@ -30,3 +30,6 @@
 - [Interpreting black box models using Shapley Additive exPlanations](https://naiborhujosua.medium.com/interpreting-black-box-models-using-shapley-additive-explanations-85a9842b5cbd)
 - [How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)](https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/)
 
+
+
+![banner](https://github.com/naiborhujosua/Blog_Notes/assets/13548560/7d004dfb-5f73-4cce-b57a-f38329bc53d7)
