@@ -12,6 +12,7 @@
 <i>Loved the project? Please consider [donating](https://paypal.me/naiborhujosua) to help it improve!</i>
 
 </div>
+![banner](https://github.com/naiborhujosua/Blog_Notes/assets/13548560/16fc8c72-4bc2-45b9-bd90-2449c6114d28)
 
 
 
